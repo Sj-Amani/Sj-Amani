@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Sajjad
 
+- 🔭 I work on [Robotics + Computer Vision and Deep Learning + sometimes Control]
+- 🌱 I’m currently learning tons of cool stuff in Computer Vision and Sensor Fusion (and more).
+- 📫 How to reach me: DM me on &nbsp;
+  <a href="https://www.linkedin.com/in/sajjadamani/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="90"></a> &nbsp;
+    
+![Sajjad Amani's github stats](https://github-readme-stats.vercel.app/api?username=Sj-Amani&show_icons=true)
+    
 <!--
 **Sj-Amani/Sj-Amani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
