@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/sajjadamani/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="90"></a> &nbsp;
   <a href="https://scholar.google.com/citations?user=2O1ZVdwAAAAJ&hl=en">
-    <img src="https://a11ybadges.com/badge?logo=googlescholar" width="180"></a> 
+    <img src="https://a11ybadges.com/badge?logo=googlescholar" width="172"></a> 
     
 ![Sajjad Amani's github stats](https://github-readme-stats.vercel.app/api?username=Sj-Amani&show_icons=true)
     
