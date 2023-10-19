@@ -10,8 +10,6 @@
   <a href="https://scholar.google.com/citations?user=2O1ZVdwAAAAJ&hl=en">
     <img src="https://a11ybadges.com/badge?logo=googlescholar" width="172"></a> 
     
-![Sajjad Amani's github stats](https://github-readme-stats.vercel.app/api?username=Sj-Amani&show_icons=true)
-    
 <!--
 **Sj-Amani/Sj-Amani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
