@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Sajjad
 
 - 🔭 I work on [Robotics + Computer Vision and Deep Learning + sometimes Control]
-- 🔭 I work on [Geophysics + Signal Processing and Inversion]
+- 🔭 I work on [Signal Processing and Inversion]
 - 🌱 I’m currently learning tons of cool stuff in Computer Vision, Sensor Fusion, Signal Processing, and Inversion (and more).
 - 💬 Ask me about research or job advice (and anything else -- although I might only be able to reply meaningfully if the ask is specific, and within my areas of expertise).
 - 📫 How to reach me and my publications: DM me on &nbsp;
